@@ -37,3 +37,10 @@ The systems, frameworks, and utilities I use to build and manage my development 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=coder-Retro&show_icons=true&theme=radical&background=0d1117" alt="Hasnain's GitHub Stats" />
 </p>
+
+## 🐍 My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake zoom" src="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-contribution-grid-snake.svg">
+</picture>

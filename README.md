@@ -32,6 +32,12 @@ The systems, frameworks, and utilities I use to build and manage my development 
 
 ---
 
+## Leetcode Stats
+
+<p align="center">
+  <img src="https://leetcode-stats-github.vercel.app/?username=your_leetcode_username&theme=dark&gradient=2ecc71,000000" alt="LeetCode Stats" />
+</p>
+
 ## 📊 Git Stats
 
 <p align="center">

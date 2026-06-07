@@ -5,7 +5,8 @@
 ## 🚀 About Me
 - 🎓 **Education:** 3rd Semester Artificial Intelligence Student at the *National University of Computer & Emerging Sciences*.
 - 🏫 **Background:** Completed Intermediate in Computer Science at *Edwardes College Peshawar*.
-- 💡 **Philosophy:** A dedicated student whose primary passion has always been programming. I thrive on deep problem-solving and crafting intricate, high-level logic.
+- 💻 **Philosophy:** A dedicated student whose primary passion has always been programming.
+- 💡 **Interests:** I thrive on deep problem-solving and crafting intricate, high-level logic.
 
 ---
 

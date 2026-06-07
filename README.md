@@ -32,12 +32,6 @@ The systems, frameworks, and utilities I use to build and manage my development 
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-Data__Structures-brightgreen?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch__Linux-Stealth-2ecc71?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Workflow-yellow?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
 ## 📊 Git Stats
 
 <p align="center">

@@ -17,5 +17,3 @@
 - Git & Github
 - Hugo
 - Basics of Arch OS
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)

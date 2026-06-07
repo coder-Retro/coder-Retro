@@ -25,7 +25,7 @@ The systems, frameworks, and utilities I use to build and manage my development 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,vscode,git,github,hugo,ps" alt="Tools and OS" />
+    <img src="https://skillicons.dev/icons?i=arch,vscode,git,github,hugo" alt="Tools and OS" />
   </a>
 </p>
 

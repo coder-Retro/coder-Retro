@@ -10,8 +10,10 @@
 - At first, I developed a strong command on programming fundamentals in C language.
 - After that, I also learnt all 4 pillars of OOP in C++.
 - Currently I am trying to form a strong grasp on Data Structures & Algorithms in C++.
+- In the past, I also learnt Graphics Design using Adobe Photoshop.
 
 ## Tools
 - Visual Studio Code
 - Git & Github
+- Hugo
 - Basics of Arch OS

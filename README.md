@@ -44,3 +44,7 @@ The systems, frameworks, and utilities I use to build and manage my development 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake zoom" src="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wavy&color=2ecc71&height=60" width="100%" />
+</p>

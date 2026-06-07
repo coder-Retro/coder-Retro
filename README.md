@@ -6,5 +6,7 @@
 - Although I have been a good student overall but my primary interest has always been programming.
 - I am a great fan of problem solving and forming extreme logic developments while doing so.
 
-## Tools
-- Coding is pretty much my hobby and currently I am trying to develop a strong grasp on DSA.
+## Skills
+- Coding is pretty much my hobby and I have developed a strong command on programming fundamentals.
+- Apart from this I have also learnt quite alot of OOP concepts in C++.
+- Currentlt I am trying to form a strong grasp on Data Structures & Algorithms.

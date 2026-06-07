@@ -37,7 +37,3 @@ The systems, frameworks, and utilities I use to build and manage my development 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=coder-Retro&show_icons=true&theme=radical&background=0d1117" alt="Hasnain's GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wavy&color=f75c7e&height=60" width="100%" />
-</p>

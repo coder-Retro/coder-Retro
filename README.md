@@ -35,7 +35,7 @@ The systems, frameworks, and utilities I use to build and manage my development 
 ## 📊 Git Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=coder-Retro&show_icons=true&theme=radical&background=0d1117" alt="Hasnain's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=coder-Retro&show_icons=true&theme=vue-dark&background=0d1117" alt="Hasnain's GitHub Stats" />
 </p>
 
 ## 🐍 My Contribution Snake

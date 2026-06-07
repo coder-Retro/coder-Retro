@@ -38,5 +38,5 @@ The systems, frameworks, and utilities I use to build and manage my development 
 </p>
 
 <p align="center">
-  <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wavy&color=f75c7e&height=60" width="100%" alt="Wave Divider" />
+  <img src="https://readme-svg-wave-divider-generator.vercel.app/api?type=wavy&color=f75c7e&height=60" width="100%" />
 </p>

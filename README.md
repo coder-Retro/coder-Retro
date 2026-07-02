@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&text=Kaido&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Coder%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&text=Kaido&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Coder%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 ## 🚀 About Me
 - 🎓 **Education:** 3rd Semester Artificial Intelligence Student at the *National University of Computer & Emerging Sciences*.

@@ -1,40 +1,25 @@
-name: Generate 3D Snake
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    # Runs every 12 hours automatically
-    - cron: "0 */12 * * *"
-  
-  # Allows manual triggering via the Actions tab
+    - cron: "0 18 * * *" # Runs once a day
   workflow_dispatch:
-  
-  # Runs every time you push to the main branch
-  push:
-    branches:
-    - main
 
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    name: generate-github-profile-3d-contrib
     steps:
-      # Generates the 3D Isometric Snake game from your contribution graph
-      - name: Generate 3D Isometric Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: coder-Retro
-          outputs: |
-            dist/github-snake-3d.svg?shape=isometric
-            dist/github-snake-3d-dark.svg?shape=isometric&palette=github-dark
-          
-      # Pushes the generated SVGs to a dedicated branch named "output"
-      - name: Push results to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: coder-Retro
+      
+      - name: Commit & Push Changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Generated 3D contributions chart" || exit 0
+          git push

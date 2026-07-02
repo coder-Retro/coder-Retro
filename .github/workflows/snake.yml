@@ -1,12 +1,17 @@
-name: Generate Snake Animation
+name: Generate 3D Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs automatically every 12 hours
-  workflow_dispatch: # Allows you to run it manually at any time
+    # Runs every 12 hours automatically
+    - cron: "0 */12 * * *"
+  
+  # Allows manual triggering via the Actions tab
+  workflow_dispatch:
+  
+  # Runs every time you push to the main branch
   push:
     branches:
-      - main
+    - main
 
 jobs:
   generate:
@@ -16,17 +21,17 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Generates the snake game SVGs from the contribution graph
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      # Generates the 3D Isometric Snake game from your contribution graph
+      - name: Generate 3D Isometric Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: coder-Retro
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake-3d.svg?shape=isometric
+            dist/github-snake-3d-dark.svg?shape=isometric&palette=github-dark
           
-      # Pushes the generated SVG files to a separate isolated branch named "output"
-      - name: Push SVGs to output branch
+      # Pushes the generated SVGs to a dedicated branch named "output"
+      - name: Push results to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

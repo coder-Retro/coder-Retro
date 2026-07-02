@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Hey+There!+I+am+Hasnain;aka+%22Kaido%22" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kaido&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Coder%20%7C%20Problem%20Solver%20%7C%20Developer&descSize=20&descAlignY=55&textBg=false"/>
 
 ## 🚀 About Me
 - 🎓 **Education:** 3rd Semester Artificial Intelligence Student at the *National University of Computer & Emerging Sciences*.
@@ -17,7 +15,7 @@ Advanced programming fundamentals, deep object-oriented paradigms, and rigorous 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" alt="Programming Languages" />
   </a>
 </p>
 
@@ -33,10 +31,13 @@ The systems, frameworks, and utilities I use to build and manage my development 
 ---
 
 ## 📊 Git Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=coder-Retro&show_icons=true&theme=tokyonight&background=0d1117" alt="Hasnain's GitHub Stats" />
+  <a href="https://github.com/coder-retro">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coder-retro&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="coder-retro's GitHub Stats" />
+  </a>
 </p>
+
+---
 
 ## 🐍 My Contribution Snake
 <!-- Real 3D Isometric Moving Snake -->

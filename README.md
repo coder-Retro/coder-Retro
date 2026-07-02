@@ -39,10 +39,11 @@ The systems, frameworks, and utilities I use to build and manage my development 
 </p>
 
 ## 🐍 My Contribution Snake
+<!-- 3D Isometric Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake zoom" src="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-snake-3d-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-snake-3d.svg">
+  <img alt="coder-Retro 3D isometric snake animation" src="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-snake-3d.svg">
 </picture>
 
 <p align="center">

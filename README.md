@@ -33,7 +33,7 @@ The systems, frameworks, and utilities I use to build and manage my development 
 ## 📊 Git Stats
 <p align="center">
   <a href="https://github.com/coder-retro">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coder-retro&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="coder-retro's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=coder-retro&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&include_all_commits=true"  alt="coder-retro's GitHub Stats" />
   </a>
 </p>
 

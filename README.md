@@ -39,8 +39,12 @@ The systems, frameworks, and utilities I use to build and manage my development 
 </p>
 
 ## 🐍 My Contribution Snake
-<!-- 3D Isometric Snake Animation -->
-![](./profile-3d-contrib/profile-night-view.svg)
+<!-- Real 3D Isometric Moving Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-snake-3d-dark.svg?v=3d">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-snake-3d.svg?v=3d">
+  <img alt="coder-Retro 3D moving snake" src="https://raw.githubusercontent.com/coder-Retro/coder-Retro/output/github-snake-3d.svg?v=3d">
+</picture>
 
 <p align="center">
   <img src="./wave.svg" width="100%" alt="Wave Divider" />

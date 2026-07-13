@@ -15,7 +15,7 @@ Advanced programming fundamentals, deep object-oriented paradigms, and rigorous 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp" alt="Programming Languages" />
   </a>
 </p>
 
